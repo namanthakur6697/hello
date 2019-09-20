@@ -1,2 +1,2 @@
-# hello
-first code
+# hello wello
+just another repository
